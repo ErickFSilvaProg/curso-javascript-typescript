@@ -1,4 +1,4 @@
-# Udemy - Curso de JavaScript e TypeScript
+# Curso de JavaScript e TypeScript
 **Instrutores:** *Luiz Otávio Miranda* e *Tales Calogi Malaquias*
 
 - [x] Seção 01: Configurando o ambiente no Windows e Linux
@@ -12,29 +12,29 @@
 - [ ] Seção 09: JavaScript tooling e ES6 modules - Módulos
 - [ ] Seção 10: JavaScript - Node, npm, express e mongoDB (NodesJS)
 - [ ] Seção 11: JavaScript + Node - Projeto Agenda (com express + mongoDB)
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
-- [ ] Seção   : 
+- [ ] Seção 12: 
+- [ ] Seção 13: 
+- [ ] Seção 14: 
+- [ ] Seção 15: 
+- [ ] Seção 16: 
+- [ ] Seção 17: 
+- [ ] Seção 18: 
+- [ ] Seção 19: 
+- [ ] Seção 20: 
+- [ ] Seção 21: 
+- [ ] Seção 22: 
+- [ ] Seção 23: 
+- [ ] Seção 24: 
+- [ ] Seção 25: 
+- [ ] Seção 26: 
+- [ ] Seção 27: 
+- [ ] Seção 28: 
+- [ ] Seção 29: 
+- [ ] Seção 30: 
+- [ ] Seção 31: 
+- [ ] Seção 32: 
+- [ ] Seção 33: 
+- [ ] Seção 34: 
+- [ ] Seção 35: 
+- [ ] Seção 36: 
+- [ ] Seção 37: 
