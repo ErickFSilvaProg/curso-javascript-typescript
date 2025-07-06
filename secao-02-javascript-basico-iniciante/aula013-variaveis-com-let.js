@@ -1,4 +1,5 @@
 /** 
+ * Não podemos redeclarar variáveis com 'let'.
  * Crie variáveis com 'let', não utilise 'var'.
  * Não podemos criar variáveis com palavras reservadas.
  * As variáveis precisam ter nomes significativos.
@@ -6,7 +7,6 @@
  * As variáveis não podem conter espaços ou traços.
  * Criamos variáveis no formato camelCase.
  * As variáveis são case-sensitive.
- * Não podemos redeclarar variáveis com 'let'.
 */
 
 
