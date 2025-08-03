@@ -7,4 +7,4 @@ let salario = '6.586,30'
 
 console.log('Erick Ferreira'); // String com aspas simples.
 console.log("Programador Web"); // String com aspas duplas.
-console.log(`Seu salário: R$${salario}`); // String com tamplate strings.
+console.log(`Seu salário: R$ ${salario}`); // String com tamplate strings.

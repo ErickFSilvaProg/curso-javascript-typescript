@@ -9,14 +9,16 @@
  * As variáveis são case-sensitive.
 */
 
+let nome; // Declarar uma variável e não inicializa-la retorna um valor 'undefined'.
 
-let marido = 'João';
-marido = 'Pedro';
-let esposa = 'Maria';
-let filho = 'Eduardo';
+nome = "João";  // Inicializa-se a variável atribuindo um valor.
+console.log(nome);
 
-console.log(`${marido} nasceu em 1984.`);
-console.log(`Em 2000 ${marido} conheceu ${esposa}.`);
-console.log(`${marido} casou-se com ${esposa} em 2012.`);
-console.log(`${esposa} teve 1 filho com ${marido} em 2015.`);
-console.log(`O filho de ${marido} se chama ${filho}.`);
+nome = "Pedro";
+console.log(nome, "\n");
+
+// let nome = "Carlos";
+/*
+    Redeclarar a variável 'nome' retornaria um erro parando o sistema:
+    SyntaxError: Identifier 'nome' has already been declared
+*/

@@ -7,15 +7,26 @@
  * Criamos constantes no formato camelCase.
  * As constantes são case-sensitive.
  * Não podemos alterar o valor de uma constante.
+ * Não podemos declarar uma constante sem inicializa-la:
+ * 
+ *      const nome;
+ *      SyntaxError: Missing initializer in const declaration
 */
 
-const nome = 'João';
-
-const primeiroValor = '5';
-const segundoValor = 10;
-const resultado = primeiroValor + segundoValor;
+const primeiroNumero = 5;
+const segundoNumero = 10;
+const resultado = primeiroNumero * segundoNumero;
 const resultadoDuplicado = resultado * 2;
+
 let resultadoTriplicado = resultado * 3;
-resultadoTriplicado = resultadoTriplicado + 5;
+resultadoTriplicado += "5";
+
+console.log(resultado);
+console.log(resultadoDuplicado);
+console.log(resultadoTriplicado);
+console.log();
 
 console.log(typeof resultado);
+console.log(typeof resultadoDuplicado);
+console.log(typeof resultadoTriplicado);
+console.log();
