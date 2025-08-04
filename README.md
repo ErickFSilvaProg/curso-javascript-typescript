@@ -3,21 +3,21 @@
 
 - [x] Seção 01: Configurando o ambiente no Windows e Linux
 - [x] Seção 02: JavaScript básico - Para iniciantes
-- [x] Seção 03: JavaScript - Lógica de programação
-- [x] Seção 04: JavaScript funções (Avançado)
-- [x] Seção 05: JavaScript arrays (Avançado)
-- [x] Seção 06: JavaScript objetos e prototypes (Avançado)
-- [x] Seção 07: JavaScript classes - Programação orientada a objetos(POO)
-- [x] Seção 08: JavaScript assíncrono - Promises, ajax, fetch e async/await
-- [x] Seção 09: JavaScript tooling e ES6 modules - Módulos
-- [x] Seção 10: JavaScript - Node, npm, express e mongoDB (NodesJS)
-- [x] Seção 11: JavaScript + Node - Projeto Agenda (com express + mongoDB)
-- [x] Seção 12: Linux - Deploy da aplicação e segurança
-- [x] Seção 13: API REST - JavaScript, Node, Express e SQL (MySQL ou MariaDB)
-- [x] Seção 14: React com componentes de classe (Básico)
-- [x] Seção 15: React - Redux - Redux Saga - React Hook e componentes funcionais (Avançado)
-- [x] Seção 16: React Router Dom v6
-- [x] Seção 17: Expressões regulares em JavaScript - Regex
+- [ ] Seção 03: JavaScript - Lógica de programação
+- [ ] Seção 04: JavaScript funções (Avançado)
+- [ ] Seção 05: JavaScript arrays (Avançado)
+- [ ] Seção 06: JavaScript objetos e prototypes (Avançado)
+- [ ] Seção 07: JavaScript classes - Programação orientada a objetos(POO)
+- [ ] Seção 08: JavaScript assíncrono - Promises, ajax, fetch e async/await
+- [ ] Seção 09: JavaScript tooling e ES6 modules - Módulos
+- [ ] Seção 10: JavaScript - Node, npm, express e mongoDB (NodesJS)
+- [ ] Seção 11: JavaScript + Node - Projeto Agenda (com express + mongoDB)
+- [ ] Seção 12: Linux - Deploy da aplicação e segurança
+- [ ] Seção 13: API REST - JavaScript, Node, Express e SQL (MySQL ou MariaDB)
+- [ ] Seção 14: React com componentes de classe (Básico)
+- [ ] Seção 15: React - Redux - Redux Saga - React Hook e componentes funcionais (Avançado)
+- [ ] Seção 16: React Router Dom v6
+- [ ] Seção 17: Expressões regulares em JavaScript - Regex
 - [ ] Seção 18: 
 - [ ] Seção 19: 
 - [ ] Seção 20: 
