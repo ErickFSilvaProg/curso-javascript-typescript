@@ -1,12 +1,12 @@
 /**
  * - Strings:
  * 
- * Strings são indexadas. O texto é iterável.
+ * As strings são indexadas. O texto é iterável.
  */
 
 //               01234567
 let umaString = 'Um Texto';
-let outraString = 'O rato roeu a roupa do rei de roma.'
+let outraString = "O rato roeu a roupa do rei de roma.";
 
 // 
 console.log(umaString);
