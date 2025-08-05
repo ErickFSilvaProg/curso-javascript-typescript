@@ -16,8 +16,8 @@ console.log();
 console.log('- Retorna caracteres específicos:');
 console.log(umaString[1]);
 console.log(umaString.charAt(6));
-console.log(umaString[8]); // 'undefined' porque não existe.
-console.log(umaString[-1]); // 'undefined' porque não existe.
+console.log(umaString[8]); // 'undefined',não existe.
+console.log(umaString[-1]); // 'undefined', não existe.
 console.log();
 
 // Concatenação:
