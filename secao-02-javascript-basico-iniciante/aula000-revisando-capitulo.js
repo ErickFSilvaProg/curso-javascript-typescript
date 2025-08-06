@@ -38,3 +38,5 @@ console.log(umaString.indexOf("Um", 3)); // Retorna '-1' quando não encontra a 
 console.log(umaString.indexOf("o", 3));
 console.log(umaString.lastIndexOf("m", 3)); // Pesquisa do final para o início.
 console.log();
+
+// 
