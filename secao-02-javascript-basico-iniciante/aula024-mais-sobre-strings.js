@@ -70,7 +70,7 @@ console.log(umaString.length); // O 'length' é um atributo da String e não uma
 console.log(outraString.length);
 console.log();
 
-// Fatiamento de String, busca por conteúdo:
+// Extração de String, busca por conteúdo:
 console.log("- Fatiamento de String, busca por conteúdo:");
 console.log(outraString);
 console.log(outraString.slice(2, 5)); // Será extraído os String do intervalo indicado. O último índice não será lido.
@@ -80,7 +80,7 @@ console.log(outraString.slice(32));
 console.log(outraString.slice(-5, -1)); // Extrai filtrando a busca a partir do final.
 console.log();
 
-// Dividindo a String e agrupando em um array:
+// Divide a String e agrupando em um array:
 console.log("- Dividindo a String e agrupando em um array:");
 console.log(outraString.split(" ")); // Divide a String utilizando o 'espaço' como separador.
 console.log(outraString.split("r")); // Divide a String utilizando o 'r' como separador.
