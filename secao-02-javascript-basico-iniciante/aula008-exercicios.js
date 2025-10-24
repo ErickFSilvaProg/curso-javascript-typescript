@@ -1,1 +1,6 @@
-console.log('Meu nome é "Erick". Estou aprendendo JavaScript às', 10, 'horas da manhã.')
+let nome = "Erick Ferreira";
+let linguagem = "Javascript";
+let hora = 10;
+
+console.log(`Meu nome é "${nome}". Estou aprendendo ${linguagem} às ${hora} da manhã.`);
+console.log();
