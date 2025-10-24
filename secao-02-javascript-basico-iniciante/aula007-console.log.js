@@ -1,10 +1,16 @@
 /**
  * console.log() - Método 'log()' que está dentro do objeto 'console'.
  * Javascript é uma liguagem de tipagem dinâmica.
+ * Em javascript não há a separação de números inteiros e números de ponto flutuantes.
+ * Todos os números em javascript são numbers.
 */
 
-let salario = '6.586,30'
+let nome = 'Erick Ferreira';
+let salario = 6586.34;
+let idade = 38;
 
-console.log('Erick Ferreira'); // String com aspas simples.
-console.log("Programador Web"); // String com aspas duplas.
-console.log(`Seu salário: R$ ${salario}`); // String com tamplate strings.
+console.log(nome);
+console.log("Programador Web");
+console.log(`Meu salário é ${salario}`);
+console.log(`Idade ${idade} anos`);
+console.log();
