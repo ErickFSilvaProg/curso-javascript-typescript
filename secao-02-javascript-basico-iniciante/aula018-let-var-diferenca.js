@@ -12,17 +12,22 @@ var nome = 'Otávio';
 console.log(nome);
 
 // Isso criará uma variável global no sistema que poderá afetar outras variáveis do sistema.
-// Sempre especifique o 'let' ou o 'const'.
+// Sempre especifique o 'let' ou o 'const' na criação de variáveis ou constantes.
 nome = 'Pedro';
 console.log(nome);
-
 
 // Variáveis com 'let':
 let usuario = 'Erick';
 console.log(usuario)
 
-// Causaria um erro.
-// let usuario = 'Pedro'
+
+try {
+    // Causaria um erro.
+    let usuario = 'Fulano'
+}
+catch {
+    // Não podemos redeclarar variáveis com 'let', apenas com 'var'.
+}
 
 usuario = 'Lucas'
 console.log(usuario)
