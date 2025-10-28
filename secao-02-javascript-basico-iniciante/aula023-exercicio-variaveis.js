@@ -1,19 +1,27 @@
-// Exercício
+let varA = "A";
+let varB = "B";
+let varC = "C";
+let varApoio = null;
 
-let varA = 'A';
-let varB = 'B';
-let varC = 'C';
+/**
+ * Método antigo de resolver o problema:
+ * 
+        varApoio = varA;
+        varA = varB;
+        varB = varC;
+        varC = varApoio;
 
-console.log(`A = ${varA}, B = ${varB}, C = ${varC}`);
+        console.log(varA);
+        console.log(varB);
+        console.log(varC);
+        console.log();
+ */
 
-// 1ª maneira:
-// varApoio = varA;
-// varA = varB;
-// varB = varC;
-// varC = varApoio;
 
-// console.log(`A = ${varA}, B = ${varB}, C = ${varC}`);
-
-// 2ª maneira:
+// Método atual para resolver o problema:
 [varA, varB, varC] = [varB, varC, varA]
-console.log(`A = ${varA}, B = ${varB}, C = ${varC}`)
+
+console.log(`A = ${varA}`);
+console.log(`B = ${varB}`);
+console.log(`C = ${varC}`);
+console.log();
