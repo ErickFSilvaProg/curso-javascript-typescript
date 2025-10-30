@@ -15,8 +15,9 @@
         "sass": "cls ; sass --style expanded",
         "scss": "cls ; scss --style expanded",
         "less": "cls ; cd $dir && lessc $fileName $fileNameWithoutExt.css",
-        "python": "cls ; python -u",
-        "dart": "cls ; dart"
+        "python": "cls ; python -u"
     },
-    "python.defaultInterpreterPath": "python"
+    "python.defaultInterpreterPath": "python",
+    "git.autofetch": true,
+    "editor.unicodeHighlight.invisibleCharacters": false
 }
