@@ -10,23 +10,21 @@
 */
 
 
+let nome; // Declarar uma variável e não inicializa-la retorna um valor 'undefined'.
+console.log(nome);
+
 // let nome = "Carlos";
 /*
     Redeclarar a variável 'nome' retornaria um erro parando o sistema:
     SyntaxError: Identifier 'nome' has already been declared
 */
 
-
-let nome; // Declarar uma variável e não inicializa-la retorna um valor 'undefined'.
-console.log(nome);
-
-nome = "Pedro"  // Inicializa-se a variável 'nome' e atribuindo um valor.
+nome = "Pedro"  // Inicializa-se a variável 'nome' e atribui um valor.
 console.log(nome, "\n");
 
 nome = "João"; // Reatribuindo valor a variável 'nome'.
 let esposa = "Maria";
 let filho = "Eduardo";
-
 
 console.log(`${nome} nasceu em 1984.`);
 console.log(`Em 2000 ${nome} conheceu ${esposa}.`);
@@ -34,3 +32,7 @@ console.log(`${nome} casou-se com ${esposa} em 2012.`);
 console.log(`${esposa} teve 1 filho com ${nome} em 2015.`);
 console.log(`O filho de ${nome} se chama ${filho}.`);
 console.log();
+
+
+let nomeCompleto = 'Erick Ferreira da Silva';
+console.log(nomeCompleto);

@@ -19,22 +19,28 @@
  * Number = número
  * 
  * A soma entre um number e um string resulta em uma concatenação entre ambos.
+ * O javascript é uma linguagem de tipagem dinâmica.
 */
 
 
-const nome = "Erick Ferreira";
-console.log(nome);
+const nomeCompleto = 'Erick Ferreira';
+console.log(nomeCompleto);
 console.log();
 
 const primeiroNumero = 5;
 const segundoNumero = 10;
-const terceiroNumero = "3";
+const terceiroNumero = '3';
 
 const resultado = primeiroNumero * segundoNumero;
+console.log(resultado);
+
 const resultadoDuplicado = resultado * 2;
+console.log(resultadoDuplicado);
 
 let resultadoTriplicado = resultado * 3;
-resultadoTriplicado = resultadoTriplicado + primeiroNumero;
+console.log(resultadoTriplicado);
+
+resultadoTriplicado += 5;
 console.log(resultadoTriplicado);
 console.log();
 
@@ -44,6 +50,7 @@ console.log(typeof segundoNumero);
 console.log(typeof terceiroNumero);
 console.log();
 
-console.log(typeof (primeiroNumero + segundoNumero));
-console.log(typeof (primeiroNumero + terceiroNumero));
+
+console.log(typeof (primeiroNumero + segundoNumero), primeiroNumero + segundoNumero);
+console.log(typeof (primeiroNumero + terceiroNumero), primeiroNumero + terceiroNumero);
 console.log();
