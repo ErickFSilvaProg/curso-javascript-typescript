@@ -4,30 +4,35 @@
  * Não podemos redeclarar variáveis com 'let', apenas com 'var'.
  */
 
-// Variáveis com 'var':
-var nome = 'Luiz';
-console.log(nome);
 
+// Variáveis com 'var':
 var nome = 'Otávio';
 console.log(nome);
 
-// Isso criará uma variável global no sistema que poderá afetar outras variáveis do sistema.
-// Sempre especifique o 'let' ou o 'const' na criação de variáveis ou constantes.
-nome = 'Pedro';
+var nome = 'Erick';
 console.log(nome);
+
+
+// Declarar variáveis sem 'let' ou 'const' criará uma variável global no sistema que poderá afetar outras variáveis do sistema.
+// Sempre especifique o 'let' ou o 'const' na criação de variáveis ou constantes.
+sobrenome = 'Ferreira';
+console.log(sobrenome);
+
 
 // Variáveis com 'let':
 let usuario = 'Erick';
-console.log(usuario)
+console.log(usuario);
 
 
 try {
-    // Causaria um erro.
-    let usuario = 'Fulano'
+    // Redeclarar uma variável com 'let' causaria um erro.
+    let usuario = 'Fulano';
 }
 catch {
     // Não podemos redeclarar variáveis com 'let', apenas com 'var'.
 }
+finally {
+    usuario = 'Lucas';
+}
 
-usuario = 'Lucas'
-console.log(usuario)
+console.log(usuario);

@@ -1,23 +1,27 @@
 /**
- * Tamplate string: `Conteúdo aqui...`
+ * - Tamplate string: 
+ * 
+ *      O template string é uma maneira mais otimizada de concatenar ou unir dados para formar uma expressão, com ele é possível misturar diferentes tipos (variáveis, textos, operadores etc) de forma mais eficiente e no final irá converter a expressão em uma string única.
+ *      
+ *      Exemplo: `Conteúdo aqui dentro!`
  */
 
-const nome = "Erick";
-const sobrenome = "Ferreira da Silva";
-const idade = 39;
-const peso = 82;
+
+// - Variáveis:
+const nome = 'Erick';
+const sobrenome = 'Ferreira';
 const alturaEmM = 1.75;
+const anoNascimento = 1986;
+let peso = 81;
 let anoAtual = new Date().getFullYear();
-let anoNascimento;
-let imc;
+let idade = anoAtual - anoNascimento;
+let imc = peso / (alturaEmM * alturaEmM);
 
-anoNascimento = anoAtual - idade;
-imc = peso / (alturaEmM *alturaEmM);
 
+// - Programa:
 console.log(
-    `${nome} ${sobrenome} tem ${idade} anos, pesa ${peso}kg. Tem ${alturaEmM}m de altura e seu IMC é de ${imc.toFixed(2)}.`
+    `Erick Ferreira tem ${idade} anos, pesa ${peso} kg, sua altura é ${alturaEmM} metros e seu IMC é de ${imc.toFixed(2)}.`
 );
-
 console.log(
-    `${nome} nasceu em ${anoNascimento}.\n`
-)
+    `\n${nome} ${sobrenome} nasceu em ${anoNascimento}.\n`
+);
