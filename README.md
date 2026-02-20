@@ -1,2 +1,40 @@
-# JavaScript e TypeScript - Luiz Otávio de Miranda
-JavaScript e TypeScript do básico ao avançado - JS + TS
+# Curso de JavaScript e TypeScript
+Instrutores: Luiz Otávio Miranda e Tales Calogi Malaquias
+
+[x] Seção 01: Configurando o ambiente no Windows e Linux
+[x] Seção 02: JavaScript básico - Para iniciantes
+[ ] Seção 03: JavaScript - Lógica de programação
+[ ] Seção 04: JavaScript funções (Avançado)
+[ ] Seção 05: JavaScript arrays (Avançado)
+[ ] Seção 06: JavaScript objetos e prototypes (Avançado)
+[ ] Seção 07: JavaScript classes - Programação orientada a objetos(POO)
+[ ] Seção 08: JavaScript assíncrono - Promises, ajax, fetch e async/await
+[ ] Seção 09: JavaScript tooling e ES6 modules - Módulos
+[ ] Seção 10: JavaScript - Node, npm, express e mongoDB (NodesJS)
+[ ] Seção 11: JavaScript + Node - Projeto Agenda (com express + mongoDB)
+[ ] Seção 12: Linux - Deploy da aplicação e segurança
+[ ] Seção 13: API REST - JavaScript, Node, Express e SQL (MySQL ou MariaDB)
+[ ] Seção 14: React com componentes de classe (Básico)
+[ ] Seção 15: React - Redux - Redux Saga - React Hook e componentes funcionais (Avançado)
+[ ] Seção 16: React Router Dom v6
+[ ] Seção 17: Expressões regulares em JavaScript - Regex
+[ ] Seção 18:
+[ ] Seção 19:
+[ ] Seção 20:
+[ ] Seção 21:
+[ ] Seção 22:
+[ ] Seção 23:
+[ ] Seção 24:
+[ ] Seção 25:
+[ ] Seção 26:
+[ ] Seção 27:
+[ ] Seção 28:
+[ ] Seção 29:
+[ ] Seção 30:
+[ ] Seção 31:
+[ ] Seção 32:
+[ ] Seção 33:
+[ ] Seção 34:
+[ ] Seção 35:
+[ ] Seção 36:
+[ ] Seção 37:
