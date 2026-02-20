@@ -1,4 +1,5 @@
 # Curso de JavaScript e TypeScript
+
 **Instrutores:** *Luiz Otávio Miranda* e *Tales Calogi Malaquias*
 
 - [x] Seção 01: Configurando o ambiente no Windows e Linux

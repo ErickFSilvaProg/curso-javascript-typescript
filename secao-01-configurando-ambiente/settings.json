@@ -1,0 +1,30 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.executorMap": {
+        "php": "cls ; php",
+        "javascript": "cls ; node",
+        "typescript": "cls ; ts-node",
+        "sass": "cls ; sass --style expanded",
+        "scss": "cls ; scss --style expanded",
+        "less": "cls ; cd $dir && lessc $fileName $fileNameWithoutExt.css",
+        "python": "cls ; python -u",
+        "dart": "cls ; dart",
+        "java": "cls ; cd $dir && javac $fileName && java $fileNameWithoutExt"
+    },
+    // "python.defaultInterpreterPath": "python",
+    // "database-client.autoSync": true,
+    "editor.wrapOnEscapedLineFeeds": true,
+    "files.autoSave": "onFocusChange",
+    // "liveServer.settings.ChromeDebuggingAttachment": false,
+    // "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+    // "liveServer.settings.donotShowInfoMsg": true
+}
