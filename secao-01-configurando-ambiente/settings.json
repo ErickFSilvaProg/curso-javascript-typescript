@@ -16,15 +16,9 @@
         "sass": "cls ; sass --style expanded",
         "scss": "cls ; scss --style expanded",
         "less": "cls ; cd $dir && lessc $fileName $fileNameWithoutExt.css",
-        "python": "cls ; python -u",
-        "dart": "cls ; dart",
-        "java": "cls ; cd $dir && javac $fileName && java $fileNameWithoutExt"
+        "python": "cls ; python -u"
     },
-    // "python.defaultInterpreterPath": "python",
-    // "database-client.autoSync": true,
-    "editor.wrapOnEscapedLineFeeds": true,
-    "files.autoSave": "onFocusChange",
-    // "liveServer.settings.ChromeDebuggingAttachment": false,
-    // "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
-    // "liveServer.settings.donotShowInfoMsg": true
+    "python.defaultInterpreterPath": "python",
+    "git.autofetch": true,
+    "editor.unicodeHighlight.invisibleCharacters": false
 }
